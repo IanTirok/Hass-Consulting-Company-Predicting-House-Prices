@@ -1,4 +1,4 @@
-# MchezoPesa-Football-results-prediction
+# Hass-Consulting-Company-Predicting-House-Prices
 Practice project on Logistic regression, Lasso models, Decision Trees and Polynomial regression
 
 <!-- ABOUT THE PROJECT -->
